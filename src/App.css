@@ -1,11 +1,15 @@
 .App {
   text-align: center;
-}
-
-.App {
   background: #209cee;
   padding: 30px;
   height: 100vh;
+}
+
+header{
+  margin:40px;
+  font-size:40px;
+  color:white;
+  text-decoration: underline;
 }
 
 .todo-list {
